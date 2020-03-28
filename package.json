@@ -27,7 +27,7 @@
     "@types/ioredis": "~4.0.11",
     "@types/node": "~12.11.0",
     "fastify": "^2.5.0",
-    "ioredis": "^4.9.0",
+    "ioredis": "^4.16.1",
     "knex": "^0.20.2",
     "sqlite3": "^4.1.0",
     "standard": "^14.0.2",
